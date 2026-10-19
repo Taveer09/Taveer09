@@ -44,6 +44,16 @@
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Taveer09&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" width="100%" alt="GitHub Stats"><br>
+      <img src="https://streak-stats.demolab.com/?user=Taveer09&theme=shadow_green&hide_border=false" width="100%" alt="GitHub Streak"><br>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" alt="Most Used Languages">
+    </td>
+    <td width="380" valign="middle" align="right">
+      <img src="https://raw.githubusercontent.com/Taveer09/Taveer09/main/IMG_3624.PNG" width="440" alt="Моя фотография">
+    </td>
+  </tr>
+</table>
