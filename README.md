@@ -1,72 +1,180 @@
-# 💫 About Me:
-<div align="center">Kairzhan Tamerlan
-
+<!-- Profile README for Taveer09 -->
 <div align="center">
 
-<p><code>taveer09@github ~ $ neofetch --live</code></p>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="100%" style="width:100%;" valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=taveer09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284402057%3Fu%3D9a32e20ee2f207695e4699bba064c9ce114a11eb%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=taveer09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284402057%3Fu%3D9a32e20ee2f207695e4699bba064c9ce114a11eb%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="taveer09 animated terminal portrait" />
-</picture>
-</td>
-</tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=Taveer&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284402057%3Fu%3D9a32e20ee2f207695e4699bba064c9ce114a11eb%26v%3D4&label=taveer09&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=taveer09&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284402057%3Fu%3D9a32e20ee2f207695e4699bba064c9ce114a11eb%26v%3D4&label=taveer09&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="taveer09 animated ASCII name" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/wordmark?username=taveer09&theme=aurora&label=taveer09&v=cinematic-hero-wordmark-1&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/wordmark?username=taveer09&theme=aurora&label=taveer09&v=cinematic-hero-wordmark-1&mode=dark"
+    width="800"
+    alt="Taveer09 ASCII wordmark"
+  />
 </picture>
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Taveer1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kairzhan.tamer11an)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@perxot_slona)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Taveer01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamerkairzhan@gmail.com)
+<p><b>Web development · AI tools · Learning by shipping</b></p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white) ![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1600&amp;color=3ECF8E&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=Building+web+projects.;Exploring+AI-assisted+development.;Learning+by+shipping." width="700" alt="Building web projects. Exploring AI-assisted development. Learning by shipping." />
 
-<h2>Featured work</h2>
+<!-- Contacts stay visible at the top. -->
+<p>
+  <a href="https://t.me/Taveer1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:tamerkairzhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/kairzhan.tamer11an">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@perxot_slona">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.reddit.com/user/Taveer01">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" />
+  </a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=taveer09&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284402057%3Fu%3D9a32e20ee2f207695e4699bba064c9ce114a11eb%26v%3D4" width="100%" alt="Featured projects" />
-</td>
-<td width="67%" valign="top">
-<h3><a href="https://github.com/doniar4/NIS-Hub"><strong>NIS-Hub</strong></a></h3>
-<p>NIS Hub is a personal learning ecosystem built for NIS students — a single digital space where education, resources, identity, and community come toge</p>
-<p><sub>TypeScript · ⭐ 2 stars · 0 forks</sub></p>
-<p><a href="https://github.com/doniar4/NIS-Hub">View project →</a></p>
-</td>
-</tr>
-</table>
+<p>
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#stats">Stats</a> &nbsp; / &nbsp;
+  <a href="#featured-project">Projects</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#arcade">Arcade</a>
+</p>
 
-# 📊 GitHub Stats:
+</div>
 
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" width="100%" alt="GitHub Stats"><br>
-      <img src="https://streak-stats.demolab.com/?user=Taveer09&theme=shadow_green&hide_border=false" width="100%" alt="GitHub Streak"><br>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Taveer09&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" alt="Most Used Languages">
-    </td>
-    <td width="380" valign="middle" align="right">
-      <img src="https://raw.githubusercontent.com/Taveer09/Taveer09/main/IMG_3624.PNG" width="440" alt="Моя фотография">
-    </td>
-  </tr>
-</table>
+---
 
-## Contribution Graph
+<h2 id="about">01 / Behind the username</h2>
+
+<img align="right" src="https://raw.githubusercontent.com/Taveer09/Taveer09/main/IMG_3624.PNG" width="170" alt="Kairzhan Tamerlan" />
+
+```yaml
+name: Kairzhan Tamerlan
+username: Taveer09
+focus: Web development
+languages: [TypeScript, Python, C++]
+interests: [Useful web products, AI tools]
+workflow: Idea → Build → Test → Improve
+```
+
+I enjoy turning ideas into web projects and learning through the process.
+
+Here you’ll find what I’m building, the tools I use, and the experiments along the way.
+
+<br clear="right" />
+
+<h2 id="stats">02 / By the numbers</h2>
+
+<!-- Public GitHub statistics. These cards are always visible. -->
+<p align="center">
+  <a href="https://github.com/Taveer09?tab=overview">
+    <img src="https://github-readme-stats.shion.dev/api?username=Taveer09&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=3ecf8e&amp;icon_color=3ecf8e&amp;text_color=c9d1d9&amp;custom_title=Taveer09%20%2F%20GitHub%20Stats" width="49%" alt="Taveer09 GitHub stats: stars, commits, pull requests, issues, and contributions" />
+  </a>
+  <a href="https://github.com/Taveer09?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=Taveer09&amp;hide_border=true&amp;background=0D1117&amp;ring=3ECF8E&amp;fire=3ECF8E&amp;currStreakLabel=3ECF8E&amp;sideLabels=C9D1D9&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E" width="49%" alt="Total contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+<p align="center"><sub>A snapshot of my public GitHub activity.</sub></p>
+
+<h2 id="featured-project">03 / Currently building</h2>
+
+### [NIS Hub ↗](https://github.com/doniar4/NIS-Hub)
+
+A learning workspace for NIS students, bringing study resources and everyday school tools into one place.
+
+- **Study:** a personal library, PDF reader, bookmarks, and reading progress.
+- **Organize:** timetables, personal tasks, and homework.
+- **Connect:** community features and direct messages.
+- **Personalize:** Kazakh, Russian, and English interfaces with light and dark themes.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
+</p>
+
+[Explore the repository →](https://github.com/doniar4/NIS-Hub)
+
+
+<h2 id="toolbox">04 / Tools behind the projects</h2>
+
+<p><b>Languages</b></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,cpp&amp;theme=light&amp;perline=3" />
+  <img src="https://skillicons.dev/icons?i=ts,py,cpp&amp;theme=dark&amp;perline=3" height="48" alt="TypeScript, Python, C++" />
+</picture>
+
+<p><sub>TypeScript · Python · C++</sub></p>
+
+<p><b>Backend & deployment</b></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=supabase,vercel&amp;theme=light&amp;perline=2" />
+  <img src="https://skillicons.dev/icons?i=supabase,vercel&amp;theme=dark&amp;perline=2" height="48" alt="Supabase, Vercel" />
+</picture>
+
+<p><sub>Supabase · Vercel</sub></p>
+
+<p><b>AI & development tools</b></p>
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-181818?style=for-the-badge" alt="Cursor" />
+</p>
+
+<h2 id="arcade">05 / After the commit</h2>
+
+<p><code>$ play breakout --source=contributions</code></p>
 
 <!-- breakout -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph.svg">
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Taveer09/Taveer09/output/breakout-contribution-graph.svg"
+    width="100%"
+    alt="My GitHub contributions as a Breakout animation"
+  />
 </picture>
+
+---
+
+<div align="center">
+
+<p><b>Have an idea? Let’s talk.</b></p>
+
+<p>
+  <a href="https://t.me/Taveer1">Message me on Telegram ↗</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:tamerkairzhan@gmail.com">Send an email ↗</a>
+</p>
+
+<code>Still learning. Still building.</code>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Powered_by-KFC-F40027?style=flat-square" alt="Powered by KFC" />
+
+<p><sub>
+  Visuals:
+  <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a> ·
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> ·
+  <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> ·
+  <a href="https://github.com/anuraghazra/github-readme-stats">Readme Stats</a> ·
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a>
+</sub></p>
+
+</div>
