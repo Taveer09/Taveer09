@@ -1,17 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" role="img" aria-labelledby="title desc">
-<title id="title">TAVEER09</title><desc id="desc">ASCII wordmark in a dark terminal window.</desc>
-<defs><linearGradient id="ink" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#e7fff2"/><stop offset="1" stop-color="#57d99a"/></linearGradient></defs>
-<rect x="1" y="1" width="958" height="246" rx="13" fill="#0d1117" stroke="#30363d"/>
-<path d="M1 39H959" stroke="#30363d"/>
-<circle cx="19" cy="20" r="4.5" fill="#ff6157"/><circle cx="34" cy="20" r="4.5" fill="#f5bf4f"/><circle cx="49" cy="20" r="4.5" fill="#34c759"/>
-<g font-family="Menlo, Consolas, monospace"><text x="480" y="24" text-anchor="middle" font-size="12" fill="#a7b0bc">taveer09@github: ~$ ./wordmark.sh --name</text>
-<g fill="url(#ink)" font-size="14.3" xml:space="preserve">
-<text x="46" y="80">##########     ######     ##      ##   ##########   ##########   ########       ######       ######</text>
-<text x="46" y="100">    ##       ==##  ####   ==      ##   ==           ==           ==      ##   ==##  ####   ==##  ####</text>
-<text x="46" y="120">    ##       ==      ##   ==      ##   ==           ==           ==      ##   ==      ##   ==      ##</text>
-<text x="46" y="140">    ##       ==########   ==      ##   ==######     ==######     ==######     ==      ##   ==########</text>
-<text x="46" y="160">    ##       ==      ##   ==##  ####   ==           ==           ==  ##       ==      ##           ##</text>
-<text x="46" y="180">    ##       ==      ##     ######     ==           ==           ==    ##     ==##  ####   ==    ####</text>
-<text x="46" y="200">    ++       ++      ++       ++       ++++++++++   ++++++++++   ++      ++     ++++++       ++++++</text>
-</g><text x="46" y="224" font-size="12" fill="#a7b0bc"><tspan fill="#57d99a">~ $</tspan> <tspan fill="#57d99a">_</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="TAVEER09 terminal ASCII wordmark">
+<rect x=".5" y=".5" width="1199" height="279" rx="10" fill="#0d1117" stroke="#242a31"/>
+<path d="M1 31H1199" stroke="#242a31"/>
+<circle cx="19" cy="16" r="5" fill="#ef6b63"/><circle cx="37" cy="16" r="5" fill="#e0ae50"/><circle cx="55" cy="16" r="5" fill="#4ebc74"/>
+<g font-family="Menlo, Consolas, monospace">
+<text x="600" y="20" text-anchor="middle" font-size="12" fill="#8b949e">taveer09@github: ~$ ./wordmark.sh --name</text>
+<text x="45.51" y="86" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="210.21" y="86" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSS</text>
+<text x="330.99" y="86" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSS</text>
+<text x="418.83" y="86" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSS</text>
+<text x="473.73" y="86" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="616.47" y="86" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="759.21" y="86" font-size="10" textLength="87.84" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="923.91" y="86" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSS</text>
+<text x="1066.65" y="86" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#d1d7df">SSSSSSSSSSSSSSSSSS</text>
+<text x="89.43" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSS</text>
+<text x="188.25" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==SSSSSSS</text>
+<text x="254.13" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSSSSSSSS</text>
+<text x="330.99" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==S</text>
+<text x="418.83" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSS</text>
+<text x="473.73" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==S</text>
+<text x="616.47" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==S</text>
+<text x="759.21" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==S</text>
+<text x="847.05" y="111" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSS</text>
+<text x="901.95" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==SSSSSSS</text>
+<text x="967.83" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSSSSSSSS</text>
+<text x="1044.69" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">==S==SSSSSSS</text>
+<text x="1110.57" y="111" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#b4beca">SSSSSSSSSSSS</text>
+<text x="89.43" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="188.25" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="276.09" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="330.99" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="418.83" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="473.73" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="616.47" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="759.21" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="847.05" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="901.95" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="989.79" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="1044.69" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">==S==S</text>
+<text x="1132.53" y="136" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#aab5c2">SSSSSS</text>
+<text x="89.43" y="161" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#9faab7">SSSSSS</text>
+<text x="188.25" y="161" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==SSSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="330.99" y="161" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==S</text>
+<text x="418.83" y="161" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#9faab7">SSSSSS</text>
+<text x="473.73" y="161" font-size="10" textLength="87.84" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==SSSSSSSSSSSSSSSSSSS</text>
+<text x="616.47" y="161" font-size="10" textLength="87.84" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==SSSSSSSSSSSSSSSSSSS</text>
+<text x="759.21" y="161" font-size="10" textLength="87.84" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==SSSSSSSSSSSSSSSSSSS</text>
+<text x="901.95" y="161" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==S</text>
+<text x="989.79" y="161" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#9faab7">SSSSSS</text>
+<text x="1044.69" y="161" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#9faab7">==S==SSSSSSSSSSSSSSSSSSSSSSSSS</text>
+<text x="89.43" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSS</text>
+<text x="188.25" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==S</text>
+<text x="276.09" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSS</text>
+<text x="330.99" y="186" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==SSSSSSS</text>
+<text x="396.87" y="186" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSSSSSSSS</text>
+<text x="473.73" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==S</text>
+<text x="616.47" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==S</text>
+<text x="759.21" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==S</text>
+<text x="803.13" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSS</text>
+<text x="901.95" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">==S==S</text>
+<text x="989.79" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSS</text>
+<text x="1132.53" y="186" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#929eac">SSSSSS</text>
+<text x="89.43" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSS</text>
+<text x="188.25" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==S</text>
+<text x="276.09" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSS</text>
+<text x="352.95" y="211" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSSSSSSSSSSSSSS</text>
+<text x="473.73" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==S</text>
+<text x="616.47" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==S</text>
+<text x="759.21" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==S</text>
+<text x="825.09" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSS</text>
+<text x="901.95" y="211" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==SSSSSSS</text>
+<text x="967.83" y="211" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSSSSSSSS</text>
+<text x="1044.69" y="211" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#8593a4">==S==S</text>
+<text x="1110.57" y="211" font-size="10" textLength="43.92" lengthAdjust="spacingAndGlyphs" fill="#8593a4">SSSSSSSSSSSS</text>
+<text x="89.43" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="188.25" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="276.09" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="374.91" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="473.73" y="236" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S++S++S++S++S++S++S++S++S</text>
+<text x="616.47" y="236" font-size="10" textLength="109.80" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S++S++S++S++S++S++S++S++S</text>
+<text x="759.21" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="847.05" y="236" font-size="10" textLength="21.96" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S</text>
+<text x="923.91" y="236" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S++S++S++S++S</text>
+<text x="1066.65" y="236" font-size="10" textLength="65.88" lengthAdjust="spacingAndGlyphs" fill="#768597">++S++S++S++S++S++S</text>
 </g></svg>
