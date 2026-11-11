@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" role="img" aria-labelledby="title desc">
+<title id="title">TAVEER09</title><desc id="desc">ASCII wordmark in a dark terminal window.</desc>
+<defs><linearGradient id="ink" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#e7fff2"/><stop offset="1" stop-color="#57d99a"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="246" rx="13" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 39H959" stroke="#30363d"/>
+<circle cx="19" cy="20" r="4.5" fill="#ff6157"/><circle cx="34" cy="20" r="4.5" fill="#f5bf4f"/><circle cx="49" cy="20" r="4.5" fill="#34c759"/>
+<g font-family="Menlo, Consolas, monospace"><text x="480" y="24" text-anchor="middle" font-size="12" fill="#a7b0bc">taveer09@github: ~$ ./wordmark.sh --name</text>
+<g fill="url(#ink)" font-size="14.3" xml:space="preserve">
+<text x="46" y="80">##########     ######     ##      ##   ##########   ##########   ########       ######       ######</text>
+<text x="46" y="100">    ##       ==##  ####   ==      ##   ==           ==           ==      ##   ==##  ####   ==##  ####</text>
+<text x="46" y="120">    ##       ==      ##   ==      ##   ==           ==           ==      ##   ==      ##   ==      ##</text>
+<text x="46" y="140">    ##       ==########   ==      ##   ==######     ==######     ==######     ==      ##   ==########</text>
+<text x="46" y="160">    ##       ==      ##   ==##  ####   ==           ==           ==  ##       ==      ##           ##</text>
+<text x="46" y="180">    ##       ==      ##     ######     ==           ==           ==    ##     ==##  ####   ==    ####</text>
+<text x="46" y="200">    ++       ++      ++       ++       ++++++++++   ++++++++++   ++      ++     ++++++       ++++++</text>
+</g><text x="46" y="224" font-size="12" fill="#a7b0bc"><tspan fill="#57d99a">~ $</tspan> <tspan fill="#57d99a">_</tspan></text>
+</g></svg>

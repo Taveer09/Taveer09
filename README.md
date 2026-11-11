@@ -1,17 +1,7 @@
 <!-- Profile README for Taveer09 -->
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/wordmark?username=taveer09&theme=aurora&label=taveer09&v=cinematic-hero-wordmark-1&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/wordmark?username=taveer09&theme=aurora&label=taveer09&v=cinematic-hero-wordmark-1&mode=dark"
-    width="800"
-    alt="Taveer09 ASCII wordmark"
-  />
-</picture>
+<img src="./taveer09-wordmark.svg" width="100%" alt="TAVEER09 — terminal ASCII wordmark" />
 
 <p><b>Web development · AI tools · Learning by shipping</b></p>
 
